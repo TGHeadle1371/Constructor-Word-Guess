@@ -9,7 +9,7 @@
 // HINT: If you name your letter 's display function toString, 
 // JavaScript will call that function automatically whenever casting that object to a string (check out this example: https://jsbin.com/facawetume/edit?js,console)
 //This file requires the Word.js file
-var Word = require("./Word.js");
+var Word = require("./word.js");
 
 //Game requires inquirer npm package to prompt user to enter a letter.
 var inquirer = require("inquirer");
